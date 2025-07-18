@@ -1,6 +1,7 @@
 #This is a new repo
-Author- krish kumar
 <br>
+Author- krish kumar
+
 # My Python Eggs 🐍 😄
 
 <hr>
